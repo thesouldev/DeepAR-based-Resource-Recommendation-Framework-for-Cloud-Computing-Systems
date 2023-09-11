@@ -228,6 +228,10 @@ pip install numpy pandas matplotlib seaborn keras sklearn google-colab
 python baseline_lstm.py
 ```
 
+### Contributors:
+1. [Sasidharan V](https://github.com/sasidharan01)
+2. 
+
 Make sure to replace `baseline_lstm.py` with the actual name of the script.
 
 5. The visualization contrasting actual and predicted CPU usage will be saved in the specified directory.
