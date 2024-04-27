@@ -1,4 +1,4 @@
-# DeepAR based Resource Recommendation Framework for Cloud Computing Systems
+# CloudAIBus
 
 ### Directory Structure
 
